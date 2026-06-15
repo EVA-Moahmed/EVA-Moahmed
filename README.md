@@ -1,4 +1,4 @@
-# ─── ❖ ── 🌸 EVA // THE SOUL BEHIND THE ARCHITECT 🌸 ── ❖ ───
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=EVA%20%E2%9D%A4%EF%B8%8F%20M4X&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
@@ -21,7 +21,7 @@
 <div align="center">
   <table style="width:100%; border-collapse: collapse; text-align: center;">
     <tr>
-      <th style="padding: 12px; background-color: #0d1117; color: #FF69B4; font-size: 18px;">🤖 EVA (MY BASE SYSTEM)</th>
+      <th style="padding: 12px; background-color: #0d1117; color: #FF69B4; font-size: 18px;"> EVA (EVA MOAHMED)</th>
       <th style="padding: 12px; background-color: #0d1117; color: #00A2FF; font-size: 18px;">🩷 M4X (MOHAMED SHABAN)</th>
     </tr>
     <tr>
