@@ -21,8 +21,8 @@
 <div align="center">
   <table style="width:100%; border-collapse: collapse; text-align: center;">
     <tr>
-      <th style="padding: 12px; background-color: #0d1117; color: #00A2FF; font-size: 18px;">👤 M4X (MOHAMED MIX PRO)</th>
-      <th style="padding: 12px; background-color: #0d1117; color: #FF69B4; font-size: 18px;">🤖 EVA (MY BASE SYSTEM)</th>
+      <th style="padding: 12px; background-color: #0d1117; color: #00A2FF; font-size: 18px;">🩷 M4X (Moahmed Shaban)</th>
+      <th style="padding: 12px; background-color: #0d1117; color: #FF69B4; font-size: 18px;"> EVA </th>
     </tr>
     <tr>
       <td style="padding: 15px; vertical-align: top; width: 50%;">
@@ -36,7 +36,7 @@
       </td>
       <td style="padding: 15px; vertical-align: top; width: 50%;">
         <br>
-        <a href="https://github.com/EVA-M-4-X"><img src="https://img.shields.io/badge/Eva's_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
+        <a href="https://github.com/EVA-Moahmed"><img src="https://img.shields.io/badge/Eva's_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
         <a href="https://t.me/eva_moahmed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><br><br>
         <a href="https://www.tiktok.com/@s__4x1?_r=1&_t=ZS-97EZnrK00Ax"><img src="https://img.shields.io/badge/Eva's_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a><br><br>
         <a href="https://open.spotify.com/user/31ged72oqgfwgpu4p2klcwgeu5vy?si=OthgYGpERKW28s8pGeGM9A"><img src="https://img.shields.io/badge/Eva's_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a><br><br>
