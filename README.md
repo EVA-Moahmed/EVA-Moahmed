@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 1. THE ARCHITECT'S STORY: THROUGH MY EYES 🎀
+## 📖 1. Under the Same Umbrella 🎀
 
 > "That day, the rain was pouring down, and I was stranded at the building's exit, watching the storm without an umbrella. Suddenly, he appeared out of nowhere with a smile, holding out his umbrella over me and asking, 'May I share my umbrella with you?'. We walked together under that single umbrella, and amidst the raindrops and the sound of our steps, our hearts began to race. That simple moment opened the door to a long conversation, then admiration, until we fell in love. Today, our love is sheltered from any storm, a pure and eternal bond with M4X." 💕🔐.
 
