@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=EVA%20%E2%9D%A4%EF%B8%8F%20M4X&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=220&section=header&text=Mila%20%E2%9D%A4%EF%B8%8F%20Mitto&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
 </div>
 
 
